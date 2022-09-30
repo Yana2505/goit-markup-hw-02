@@ -1,0 +1,64 @@
+
+.header{position: absolute;
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background-color: #FFFFFF;}
+
+
+
+.stporkon{font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    }
+
+
+.body{font-family: 'Roboto';
+    font-style: normal;}
+
+
+
+.colorblue{background-color: #2F303A;
+    position: absolute;
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;}
+
+.Rishennya{color: #FFFFFF;
+}
+
+.button{ color: #FFFFFF;}
+
+.blue {color: #2196F3;}
+
+
+.komanda{position: absolute;
+    width: 1600px;
+    height: 648px;
+    left: 0px;
+    top: 1446px;
+    background-color:  #F5F4FA;}
+
+
+.colorblue1{background-color: #2F303A;position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2094px;}
+
+    .address{color: #FFFFFF;
+        width: 231px;
+        height: 21px;
+        left: 215px;
+        top: 2205px;
+    }
+
+    .adrinftel{font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;}
+
+    .footerkont{color:rgba(255, 255, 255, 0.6);}
