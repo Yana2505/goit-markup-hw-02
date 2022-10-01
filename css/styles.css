@@ -1,64 +1,106 @@
-
-.header{position: absolute;
-    width: 1600px;
-    height: 80px;
-    left: 0px;
-    top: 0px;
-    background-color: #FFFFFF;}
+@font-face {font-family:'Roboto';
+src: url('../fonts/Roboto-Regular.ttf');
+font-style: normal;}
 
 
 
-.stporkon{font-weight: 700;
+:root{--color-background:#FFFFFF ;}
+
+
+.body{ font-family:'Roboto'; 
+    font-style: normal;}
+    
+.webstudio{font-weight: 700;
     font-size: 26px;
     line-height: 31px;
-    letter-spacing: 0.03em;
-    }
+ color: #2196F3;}
+
+.studio{color: #000000;font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;}
+
+.studiaportfoliokontakt{font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;}
+
+.kontakt{color: #757575;}
 
 
-.body{font-family: 'Roboto';
-    font-style: normal;}
-
-
-
-.colorblue{background-color: #2F303A;
-    position: absolute;
-    width: 1600px;
-    height: 600px;
-    left: 0px;
-    top: 80px;}
-
-.Rishennya{color: #FFFFFF;
+.colorblue{background-color: #2F303A;width: 1600px;
+    top: 80px;
 }
 
-.button{ color: #FFFFFF;}
+.posylannia{text-decoration: none;
+}
+
+.Rishennya{color: #FFFFFF;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+
+.button{ color: #FFFFFF;
+    cursor: pointer;
+    background-color: #2196F3;font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;}
+
 
 .blue {color: #2196F3;}
 
+.seredina{font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: #212121;}
 
-.komanda{position: absolute;
-    width: 1600px;
-    height: 648px;
-    left: 0px;
-    top: 1446px;
-    background-color:  #F5F4FA;}
+.seredinaopys{font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;}
 
+.chymzkomanda{font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.03em; color:#212121;
+ }
 
-.colorblue1{background-color: #2F303A;position: absolute;
-    width: 1600px;
-    height: 252px;
-    left: 0px;
-    top: 2094px;}
+.imena{font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;color: #212121;
+}
 
-    .address{color: #FFFFFF;
-        width: 231px;
-        height: 21px;
-        left: 215px;
-        top: 2205px;
+.posada{font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #757575;
     }
 
-    .adrinftel{font-weight: 400;
-        font-size: 14px;
-        line-height: 24px;
-        letter-spacing: 0.03em;}
 
-    .footerkont{color:rgba(255, 255, 255, 0.6);}
+.komanda{background-color: #F5F4FA;}
+
+.box{background: #FFFFFF; list-style-type: none;}
+.none{list-style-type: none;}
+.colorblue1{background-color: #2F303A;
+}
+
+.address{color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;}
+
+.adrinftel{  font-family:'Roboto'; 
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;}
+
+.footerkont{color:rgba(255, 255, 255, 0.6);}
+.studio1{color: #FFFFFF;font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;}
