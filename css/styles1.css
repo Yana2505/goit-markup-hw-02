@@ -1,17 +1,19 @@
 .portfolioheader{
-   color:  #2196F3;
+color:  #2196F3;
 
 }
 .seredinaport{font-weight: 500;
     font-size: 16px;
     line-height: 26px;
-    letter-spacing: 0.03em;color: #212121;
+    letter-spacing: 0.03em;
+    color: #212121;
 }
 
 .usi{
     background: #2196F3;
     color: #FFFFFF;
-    cursor: pointer;font-weight: 500;
+    cursor: pointer;
+    font-weight: 500;
     font-size: 16px;
     line-height: 26px;
 }
@@ -22,10 +24,11 @@
 }
 
 
-.button1{ cursor: pointer;font-weight: 500;
+.button1{ cursor: pointer;
+    font-weight: 500;
     font-size: 16px;
     line-height: 26px;
-background-color: #F5F4FA;}
+    background-color: #F5F4FA;}
 
 .pidnazva{font-weight: 400;
     font-size: 16px;
