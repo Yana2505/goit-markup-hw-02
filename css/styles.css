@@ -3,36 +3,31 @@ src: url('../fonts/Roboto-Regular.ttf');
 font-style: normal;}
 
 
-
 :root{--color-background:#FFFFFF ;}
 
 
 .body{ font-family:'Roboto'; 
-    font-style: normal;}
+       font-style: normal;}
     
 .webstudio{font-weight: 700;
     font-size: 26px;
     line-height: 31px;
- color: #2196F3;}
+    color: #2196F3;}
 
+    .header{color:#212121}
+    
 .studio{color: #000000;
     font-weight: 700;
     font-size: 26px;
     line-height: 31px;}
 
-.studiaportfoliokontakt{font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;}
-
 .kontakt{color: #757575;}
-
 
 .colorblue{background-color: #2F303A;width: 1600px;
     top: 80px;
 }
 
-.posylannia{text-decoration: none;
+.links{text-decoration: none;
 }
 
 .Rishennya{color: #FFFFFF;
@@ -42,17 +37,19 @@ font-style: normal;}
     text-transform: uppercase;
 }
 
-.button{ color: #FFFFFF;
+.button { color: #212121;
     cursor: pointer;
-    background-color: #2196F3;
     font-weight: 700;
     font-size: 16px;
     line-height: 30px;}
 
+.button:hover{background-color: #2196F3; 
+    color: #FFFFFF;}
+
 
 .blue {color: #2196F3;}
 
-.seredina{font-weight: 700;
+.middle{font-weight: 700;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.03em;
@@ -61,7 +58,9 @@ font-style: normal;}
 .seredinaopys{font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    letter-spacing: 0.03em;}
+    letter-spacing: 0.03em;
+    color:#757575
+}
 
 .chymzkomanda{font-weight: 700;
     font-size: 36px;
@@ -70,14 +69,14 @@ font-style: normal;}
     color:#212121;
 }
 
-.imena{font-weight: 500;
+.name{font-weight: 500;
     font-size: 16px;
     line-height: 19px;
     letter-spacing: 0.03em;
     color: #212121;
 }
 
-.posada{font-weight: 400;
+.jobtitle{font-weight: 400;
     font-size: 16px;
     line-height: 19px;
     letter-spacing: 0.03em;
@@ -98,13 +97,13 @@ font-style: normal;}
     line-height: 24px;
     letter-spacing: 0.03em;}
 
-.adrinftel{  font-family:'Roboto'; 
+.footerlinks{  font-family:'Roboto'; 
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;}
 
-.footerkont{color:rgba(255, 255, 255, 0.6);}
+.footerkontakt{color:rgba(255, 255, 255, 0.6);}
 .studio1{color: #FFFFFF;
     font-weight: 700;
     font-size: 26px;
