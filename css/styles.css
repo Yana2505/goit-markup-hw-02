@@ -25,7 +25,8 @@ font-style: normal;}
     font-size: 26px;
     line-height: 31px;}
 
-.kontakt{color: #757575;}
+.contact{color: #757575;}
+.contact:hover, .contact:focus {color: #2196F3;}
 
 .colorblue{background-color: #2F303A;width: 1600px;
     top: 80px;
@@ -107,7 +108,10 @@ font-style: normal;}
     font-size: 14px;
     line-height: 24px;}
 
-.footerkontakt{color:rgba(255, 255, 255, 0.6);}
+.footercontact{color:rgba(255, 255, 255, 0.6);}
+
+.footercontact:hover, .footercontact:focus {color: #2196F3;}
+
 .studio1{color: #FFFFFF;
     font-weight: 700;
     font-size: 26px;
