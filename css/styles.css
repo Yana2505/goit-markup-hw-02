@@ -14,7 +14,11 @@ font-style: normal;}
     line-height: 31px;
     color: #2196F3;}
 
-    .header{color:#212121}
+.header{color:#212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;}
     
 .studio{color: #000000;
     font-weight: 700;
@@ -55,14 +59,14 @@ font-style: normal;}
     letter-spacing: 0.03em;
     color: #212121;}
 
-.seredinaopys{font-weight: 400;
+.middle_description{font-weight: 400;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
     color:#757575
 }
 
-.chymzkomanda{font-weight: 700;
+.occupation_team{font-weight: 700;
     font-size: 36px;
     line-height: 42px;
     letter-spacing: 0.03em; 
@@ -84,7 +88,7 @@ font-style: normal;}
     }
 
 
-.komanda{background-color: #F5F4FA;}
+.team{background-color: #F5F4FA;}
 
 .box{background: #FFFFFF; list-style-type: none;}
 .none{list-style-type: none;}
