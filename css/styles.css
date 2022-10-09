@@ -25,17 +25,27 @@ font-style: normal;}
     font-size: 26px;
     line-height: 31px;}
 
-.contact{color: #757575;}
-.contact:hover, .contact:focus {color: #2196F3;}
+.contact{color:#212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;}
 
-.colorblue{background-color: #2F303A;width: 1600px;
+.contact:hover, .contact:focus {color: #2196F3;}
+.contact1:hover, .contact1:focus {color: #2196F3;}
+
+.hero{background-color: #2F303A;width: 1600px;
     top: 80px;
 }
 
 .links{text-decoration: none;font-family: 'Roboto', sans-serif;
 }
+.contact1{color: #757575;font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;}
 
-.Rishennya{color: #FFFFFF;
+.solution{color: #FFFFFF;
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
@@ -95,14 +105,9 @@ font-style: normal;}
 
 .box{background: #FFFFFF; list-style-type: none;}
 .none{list-style-type: none;}
-.colorblue1{background-color: #2F303A;
+.footer{background-color: #2F303A;
 }
 
-.address{color: #FFFFFF;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.03em;}
 
 .footerlinks{  font-family:'Roboto'; 
     font-style: normal;
@@ -113,6 +118,13 @@ font-style: normal;}
 .footercontact{color:rgba(255, 255, 255, 0.6);}
 
 .footercontact:hover, .footercontact:focus {color: #2196F3;}
+
+.footercontact1{color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;}
+    .footercontact1:hover, .footercontact1:focus {color: #2196F3;}
 
 .studio1{color: #FFFFFF;
     font-weight: 700;
